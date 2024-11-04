@@ -27,7 +27,7 @@ python manage.py runserver
 Navigate to to http://127.0.0.1:8000
 
 
-# Cool Counters Project
+# Cool Counters Project : Docker
 
 This project is containerized with Docker to streamline setup and deployment. Follow the instructions below to build and run the project.
 
