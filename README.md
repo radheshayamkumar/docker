@@ -48,7 +48,7 @@ docker build -t cool_counters_image .
 ```
 #### This command builds an image named cool_counters_image based on the Dockerfile provided.
 
-# 2. Run the Docker Container
+### 2. Run the Docker Container
 ```
 docker run -p 8000:8000 cool_counters_image
 ```
